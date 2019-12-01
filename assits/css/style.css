@@ -1,3 +1,7 @@
+body {
+  padding-top: 56px;
+}
+
 .recipe-h1-text {
     text-align: center;
     margin-bottom: 1.4em;
@@ -66,7 +70,7 @@
   padding-left: 35px;
   margin-bottom: 12px;
   cursor: pointer;
-  font-size: 22px;
+  font-size: small;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
